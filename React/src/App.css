@@ -40,3 +40,46 @@
 .read-the-docs {
   color: #888;
 }
+button{
+  font-size: 12px;
+  background-color: rgb(250, 216, 175);
+  justify-content: center;
+  font-style: italic;
+  color: brown;
+} 
+.Item{
+   align-items:center;
+   font-size:x-large;
+  display:flex;
+  justify-content:flex-start;
+  text-decoration: none;
+   background-color: aqua;
+}
+.dev{
+  width: 20px;
+  height: 20px;
+  margin: 10px;
+}
+input::placeholder{
+  font-size: 15px;
+  color:grey;
+  font-weight:lighter;
+  width: 100px;
+  height: 30px;
+}
+ul{
+  text-decoration: none;
+}
+p{
+  font-style: italic;
+}
+.addForm{
+     text-decoration: none;
+     display: flex;
+     justify-content: flex-start;
+}
+.searchForm{
+     text-decoration: none;
+     display: flex;
+     justify-content: flex-start;
+}

@@ -1,0 +1,29 @@
+{
+  "depts": [
+    {
+      "id": "1",
+      "checked": true,
+      "dept": "CSE"
+    },
+    {
+      "id": "2",
+      "checked": true,
+      "dept": "ECE"
+    },
+    {
+      "id": "3",
+      "checked": true,
+      "dept": "EEE"
+    },
+    {
+      "id": 5,
+      "checked": true,
+      "dept": "IT"
+    },
+    {
+      "id": 6,
+      "checked": true,
+      "dept": "MECH"
+    }
+  ]
+}
